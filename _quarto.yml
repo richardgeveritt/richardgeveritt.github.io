@@ -3,13 +3,14 @@ project:
   output-dir: docs
 
 website:
-  title: "Website"
+  title: "Richard Everitt's homepage"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
       - href: test.qmd
+      - href: /ggsmc/
 
 format:
   html:
