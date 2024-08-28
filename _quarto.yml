@@ -8,7 +8,9 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: https://scholar.google.com/citations?hl=en&user=UlZWgtsAAAAJ&view_op=list_works&sortby=pubdate
+        text: Publications
+        external: true
       - href: test.qmd
       - href: /ggsmc/
 
