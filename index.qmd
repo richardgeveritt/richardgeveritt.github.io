@@ -2,4 +2,8 @@
 title: "Richard Everitt's homepage"
 ---
 
-Under construction...
+I am an Reader in Statistics at the University of Warwick. My research is in methodology for Bayesian computation, applied to problems in statistical genetics, neuroscience, ecology, weather and climate, spatial statistics, network analysis and signal processing. For my publications see my Google Scholar page. I try to keep my orcid profile reasonably up to date.
+
+For information about the modules I teach and my current administrational duties, see my university profile page.
+
+You can contact me by email, or on twitter.
