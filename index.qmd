@@ -2,20 +2,4 @@
 title: "About"
 ---
 
-I am an Reader in [Statistics at the University of Warwick](https://warwick.ac.uk/fac/sci/statistics/). My research is in methodology for Bayesian computation, applied to problems in statistical genetics, neuroscience, ecology, weather and climate, spatial statistics, network analysis and signal processing.
-
-This site is mainly used to detail my software projects. You can also find me on some other sites:
-
-- [my university page](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/everitt/)
-
-- [bluesky](https://bsky.app/profile/bayesianstats.bsky.social)
-
-- [linkedin](https://www.linkedin.com/in/richard-everitt-61670b12/)
-
-- [mastodon](https://mastodon.social/@bayesian_stats)
-
-- [X/twitter](https://x.com/bayesian_stats)
-
-- [orcid](https://orcid.org/0000-0002-0822-5648)
-
-You can contact me via any of the social media listed above, or via the email address on my university page.
+Testing.
