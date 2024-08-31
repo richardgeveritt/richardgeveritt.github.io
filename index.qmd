@@ -2,4 +2,26 @@
 title: "About"
 ---
 
-Testing. Again.
+::: {.grid}
+
+::: {.g-col-7}
+I am an Reader in [Statistics at the University of Warwick](https://warwick.ac.uk/fac/sci/statistics/). My research is in methodology for Bayesian computation, applied to problems in statistical genetics, neuroscience, ecology, weather and climate, spatial statistics, network analysis and signal processing. You can also find me on some other sites:
+
+* [university page](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/everitt/) (contains contact information)
+* [bluesky](https://bsky.app/profile/bayesianstats.bsky.social)
+* [linkedin](https://www.linkedin.com/in/richard-everitt-61670b12/)
+* [mastodon](https://mastodon.social/@bayesian_stats)
+* [X/twitter](https://x.com/bayesian_stats)
+* [orcid](https://orcid.org/0000-0002-0822-5648)
+
+:::
+
+::: {.g-col-5}
+![](richard_everitt-4.jpg)
+:::
+
+:::
+
+This site is mainly used to detail my software projects:
+
+* [ggsmc](https://richardgeveritt.github.io/ggsmc/): for visualising output from importance sampling, sequential Monte Carlo and ensemble-based methods.

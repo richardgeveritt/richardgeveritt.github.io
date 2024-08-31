@@ -8,7 +8,10 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd
+      - href: https://scholar.google.com/citations?hl=en&user=UlZWgtsAAAAJ&view_op=list_works&sortby=pubdate
+        text: Publications
+      - href: https://richardgeveritt.github.io/ggsmc/
+        text: ggsmc
 
 format:
   html:

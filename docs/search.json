@@ -11,6 +11,13 @@
     "href": "index.html",
     "title": "About",
     "section": "",
-    "text": "Testing. Again."
+    "text": "I am an Reader in Statistics at the University of Warwick. My research is in methodology for Bayesian computation, applied to problems in statistical genetics, neuroscience, ecology, weather and climate, spatial statistics, network analysis and signal processing. You can also find me on some other sites:\n\nuniversity page (contains contact information)\nbluesky\nlinkedin\nmastodon\nX/twitter\norcid\n\n\n\n\n\n\nThis site is mainly used to detail my software projects:\n\nggsmc: for visualising output from importance sampling, sequential Monte Carlo and ensemble-based methods."
+  },
+  {
+    "objectID": "test.html",
+    "href": "test.html",
+    "title": "Test",
+    "section": "",
+    "text": "About this site"
   }
 ]
