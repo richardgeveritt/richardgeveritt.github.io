@@ -9,7 +9,7 @@ I am an Reader in [Statistics at the University of Warwick](https://warwick.ac.u
 
 * [university page](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/everitt/) (contains contact information)
 * [bluesky](https://bsky.app/profile/bayesianstats.bsky.social)
-* [linkedin](https://www.linkedin.com/in/richard-everitt-61670b12/)
+* [linkedin](https://www.linkedin.com/in/bayesianstats/)
 * [mastodon](https://mastodon.social/@bayesian_stats)
 * [X/twitter](https://x.com/bayesian_stats)
 * [youtube](https://www.youtube.com/@bayesian_stats)
