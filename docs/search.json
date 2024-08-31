@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "About",
     "section": "",
-    "text": "I am an Reader in Statistics at the University of Warwick. My research is in methodology for Bayesian computation, applied to problems in statistical genetics, neuroscience, ecology, weather and climate, spatial statistics, network analysis and signal processing. You can also find me on some other sites:\n\nuniversity page (contains contact information)\nbluesky\nlinkedin\nmastodon\nX/twitter\norcid\n\n\n\n\n\n\nThis site is mainly used to detail my software projects:\n\nggsmc: for visualising output from importance sampling, sequential Monte Carlo and ensemble-based methods."
+    "text": "I am an Reader in Statistics at the University of Warwick. My research is in methodology for Bayesian computation, applied to problems in statistical genetics, neuroscience, ecology, weather and climate, spatial statistics, network analysis and signal processing. You can also find me on some other sites:\n\nuniversity page (contains contact information)\nbluesky\nlinkedin\nmastodon\nX/twitter\ngithub\norcid\n\n\n\n\n\n\nThis site is mainly used to detail my software projects:\n\nggsmc: for visualising output from importance sampling, sequential Monte Carlo and ensemble-based methods.\nRClonOr: an R interface to reversible multipleJump MCMC inference for the ClonalOrigin model for homologous recomination in bacteria (as used in this paper)."
   },
   {
     "objectID": "test.html",

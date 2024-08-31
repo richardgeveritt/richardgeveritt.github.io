@@ -12,6 +12,7 @@ I am an Reader in [Statistics at the University of Warwick](https://warwick.ac.u
 * [linkedin](https://www.linkedin.com/in/richard-everitt-61670b12/)
 * [mastodon](https://mastodon.social/@bayesian_stats)
 * [X/twitter](https://x.com/bayesian_stats)
+* [github](https://github.com/richardgeveritt)
 * [orcid](https://orcid.org/0000-0002-0822-5648)
 
 :::
@@ -25,3 +26,4 @@ I am an Reader in [Statistics at the University of Warwick](https://warwick.ac.u
 This site is mainly used to detail my software projects:
 
 * [ggsmc](https://richardgeveritt.github.io/ggsmc/): for visualising output from importance sampling, sequential Monte Carlo and ensemble-based methods.
+* [RClonOr](https://github.com/richardgeveritt/RClonOr): an R interface to reversible multipleJump MCMC inference for the ClonalOrigin model for homologous recomination in bacteria (as used in [this paper](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Speeding-up-Inference-of-Homologous-Recombination-in-Bacteria/10.1214/23-BA1388.full)).

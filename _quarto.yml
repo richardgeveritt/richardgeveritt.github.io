@@ -12,6 +12,8 @@ website:
         text: Publications
       - href: https://richardgeveritt.github.io/ggsmc/
         text: ggsmc
+      - href: https://github.com/richardgeveritt/RClonOr
+        text: RClonOr
 
 format:
   html:
