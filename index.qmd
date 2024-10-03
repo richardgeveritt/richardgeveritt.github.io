@@ -18,8 +18,8 @@ I am an Reader in [Statistics at the University of Warwick](https://warwick.ac.u
 
 :::
 
-::: {.g-col-5}
-![](richard_everitt-4.jpg)
+::: {.g-col-4}
+![](Richard Everitt-4.jpg)
 :::
 
 :::
